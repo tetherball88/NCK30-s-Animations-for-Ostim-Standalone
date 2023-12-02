@@ -1,19 +1,8 @@
 {
     "name": "NCK30 Cowgirl 5",
     "modpack": "NCK30Animations",
-    "length": 2,
-    "navigations": [
-        {
-            "destination": "Nck30Cowgirl5-4",
-            "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
-        },
-        {
-            "destination": "NCK30Page1",
-            "description": "Return",
-            "icon": "OStim/symbols/return"
-        }
-    ],
+    "length": 4,
+    "destination": "Nck30Cowgirl5-4",
     "speeds": [
         {
             "animation": "Nck30Cowgirl5_5"
@@ -26,7 +15,8 @@
             "scale": 1,
             "feetOnGround": false,
             "tags": [
-                "lyingback"
+                "sitting",
+                "climaxing"
             ]
         },
         {
@@ -34,7 +24,8 @@
             "scale": 1,
             "feetOnGround": false,
             "tags": [
-                "kneeling"
+                "kneeling",
+                "climaxing"
             ]
         }
     ],
@@ -43,10 +34,16 @@
             "type": "vaginalsex",
             "actor": 0,
             "target": 1
+        },
+        {
+            "type": "hug",
+            "actor": 0,
+            "target": 1
         }
     ],
     "tags": [
         "nck30",
-        "cowgirl"
+        "cowgirl",
+        "transition"
     ]
 }

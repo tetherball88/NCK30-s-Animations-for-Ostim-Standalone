@@ -1,5 +1,5 @@
 {
-    "name": "NCK30 Carnal Cuisine",
+    "name": "Nck30Carnalcuisine",
     "modpack": "NCK30Animations",
     "length": 2,
     "navigations": [
@@ -41,6 +41,11 @@
     "actions": [
         {
             "type": "lickingnipples",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "gropingbreast",
             "actor": 0,
             "target": 1
         }

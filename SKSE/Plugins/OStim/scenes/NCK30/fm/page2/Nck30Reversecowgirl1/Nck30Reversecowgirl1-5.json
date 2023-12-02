@@ -1,19 +1,8 @@
 {
     "name": "NCK30 Reverse Cowgirl 1",
     "modpack": "NCK30Animations",
-    "length": 2,
-    "navigations": [
-        {
-            "destination": "Nck30Reversecowgirl1-4",
-            "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
-        },
-        {
-            "destination": "NCK30Page2",
-            "description": "Return",
-            "icon": "OStim/symbols/return"
-        }
-    ],
+    "length": 7.666667,
+    "destination": "Nck30Reversecowgirl1-4",
     "speeds": [
         {
             "animation": "Nck30Reversecowgirl1_5"
@@ -22,11 +11,12 @@
     "actors": [
         {
             "intendedSex": "male",
-            "sosBend": -1,
+            "sosBend": -3,
             "scale": 1,
             "feetOnGround": false,
             "tags": [
-                "lyingback"
+                "lyingback",
+                "climaxing"
             ]
         },
         {
@@ -35,7 +25,8 @@
             "feetOnGround": false,
             "tags": [
                 "kneeling",
-                "facingaway"
+                "facingaway",
+                "climaxing"
             ]
         }
     ],
@@ -48,6 +39,7 @@
     ],
     "tags": [
         "nck30",
-        "cowgirl"
+        "reversecowgirl",
+        "transition"
     ]
 }

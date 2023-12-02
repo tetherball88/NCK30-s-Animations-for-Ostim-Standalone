@@ -1,19 +1,8 @@
 {
     "name": "NCK30 Doggy 1",
     "modpack": "NCK30Animations",
-    "length": 2,
-    "navigations": [
-        {
-            "destination": "Nck30Doggy1-4",
-            "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
-        },
-        {
-            "destination": "NCK30Page1",
-            "description": "Return",
-            "icon": "OStim/symbols/return"
-        }
-    ],
+    "length": 5,
+    "destination": "Nck30Doggy1-4",
     "speeds": [
         {
             "animation": "Nck30Doggy1_5"
@@ -22,11 +11,12 @@
     "actors": [
         {
             "intendedSex": "male",
-            "sosBend": 2,
+            "sosBend": -1,
             "scale": 1,
             "feetOnGround": false,
             "tags": [
-                "kneeling"
+                "squatting",
+                "climaxing"
             ]
         },
         {
@@ -34,7 +24,7 @@
             "scale": 1,
             "feetOnGround": false,
             "tags": [
-                "lyingfront",
+                "kneeling",
                 "facingaway",
                 "climaxing"
             ]
@@ -45,10 +35,16 @@
             "type": "vaginalsex",
             "actor": 0,
             "target": 1
+        },
+        {
+            "type": "hug",
+            "actor": 0,
+            "target": 1
         }
     ],
     "tags": [
         "nck30",
-        "doggystyle"
+        "doggystyle",
+        "transition"
     ]
 }

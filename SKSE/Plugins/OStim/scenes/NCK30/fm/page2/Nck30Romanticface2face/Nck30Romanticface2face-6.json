@@ -27,11 +27,11 @@
     "actors": [
         {
             "intendedSex": "male",
-            "sosBend": 3,
+            "sosBend": 7,
             "scale": 1,
-            "feetOnGround": false,
+            "feetOnGround": true,
             "tags": [
-                "lyingfront"
+                "allfours"
             ]
         },
         {
@@ -46,6 +46,11 @@
     "actions": [
         {
             "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdinghand",
             "actor": 0,
             "target": 1
         }

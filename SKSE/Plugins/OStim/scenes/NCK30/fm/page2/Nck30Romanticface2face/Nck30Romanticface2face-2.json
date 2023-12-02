@@ -27,7 +27,7 @@
     "actors": [
         {
             "intendedSex": "male",
-            "sosBend": 6,
+            "sosBend": 8,
             "scale": 1,
             "feetOnGround": false,
             "tags": [
@@ -48,6 +48,16 @@
             "type": "vaginalsex",
             "actor": 0,
             "target": 1
+        },
+        {
+            "type": "hug",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hug",
+            "actor": 1,
+            "target": 0
         }
     ],
     "tags": [

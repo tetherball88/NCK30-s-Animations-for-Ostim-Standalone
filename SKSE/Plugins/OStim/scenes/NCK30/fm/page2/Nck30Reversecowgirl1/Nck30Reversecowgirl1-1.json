@@ -27,7 +27,7 @@
     "actors": [
         {
             "intendedSex": "male",
-            "sosBend": 0,
+            "sosBend": -1,
             "scale": 1,
             "feetOnGround": false,
             "tags": [
@@ -37,9 +37,9 @@
         {
             "intendedSex": "female",
             "scale": 1,
-            "feetOnGround": false,
+            "feetOnGround": true,
             "tags": [
-                "sitting",
+                "squatting",
                 "ontop",
                 "facingaway"
             ]
@@ -49,11 +49,12 @@
         {
             "type": "vaginalsex",
             "actor": 0,
-            "target": 1
+            "target": 1,
+            "performer": 1
         }
     ],
     "tags": [
         "nck30",
-        "cowgirl"
+        "reversecowgirl"
     ]
 }

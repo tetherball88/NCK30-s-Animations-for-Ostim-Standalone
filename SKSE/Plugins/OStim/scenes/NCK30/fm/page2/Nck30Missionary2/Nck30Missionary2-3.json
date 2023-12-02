@@ -39,13 +39,18 @@
             "scale": 1,
             "feetOnGround": false,
             "tags": [
-                "lyingback"
+                "handstanding"
             ]
         }
     ],
     "actions": [
         {
             "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdingbody",
             "actor": 0,
             "target": 1
         }

@@ -5,7 +5,7 @@
     "navigations": [
         {
             "destination": "Nck30Cowgirl3-5",
-            "description": "Next",
+            "description": "Next(climax)",
             "icon": "OStim/symbols/arrow_right"
         },
         {
@@ -29,18 +29,24 @@
             "intendedSex": "male",
             "sosBend": 2,
             "scale": 1,
-            "feetOnGround": false,
+            "feetOnGround": true,
             "tags": [
-                "lyingback"
-            ]
+                "allfours"
+            ],
+            "autoTransitions": {
+                "climax": "Nck30Cowgirl3-5"
+            }
         },
         {
             "intendedSex": "female",
             "scale": 1,
             "feetOnGround": false,
             "tags": [
-                "kneeling"
-            ]
+                "sitting"
+            ],
+            "autoTransitions": {
+                "climax": "Nck30Cowgirl3-5"
+            }
         }
     ],
     "actions": [
@@ -48,6 +54,11 @@
             "type": "vaginalsex",
             "actor": 0,
             "target": 1
+        },
+        {
+            "type": "kissing",
+            "actor": 1,
+            "target": 0
         }
     ],
     "tags": [

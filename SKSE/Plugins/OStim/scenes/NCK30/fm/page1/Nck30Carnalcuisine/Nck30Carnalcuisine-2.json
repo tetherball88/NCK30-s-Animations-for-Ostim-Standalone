@@ -1,5 +1,5 @@
 {
-    "name": "NCK30 Carnal Cuisine",
+    "name": "Nck30Carnalcuisine",
     "modpack": "NCK30Animations",
     "length": 2,
     "navigations": [
@@ -7,11 +7,6 @@
             "destination": "Nck30Carnalcuisine-3",
             "description": "Next",
             "icon": "OStim/symbols/arrow_right"
-        },
-        {
-            "destination": "Nck30Carnalcuisine-1",
-            "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
         },
         {
             "destination": "NCK30Page1",

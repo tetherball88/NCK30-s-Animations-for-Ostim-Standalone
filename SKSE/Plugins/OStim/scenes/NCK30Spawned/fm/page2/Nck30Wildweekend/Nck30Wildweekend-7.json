@@ -1,0 +1,45 @@
+{
+    "name": "NCK30 Wild Weekend",
+    "modpack": "NCK30Animations",
+    "length": 5.133333,
+    "destination": "Nck30Wildweekend-6",
+    "speeds": [
+        {
+            "animation": "Nck30Wildweekend_7"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingfront",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingfront",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "nck30",
+        "doggystyle",
+        "transition"
+    ]
+}

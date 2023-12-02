@@ -5,7 +5,7 @@
     "navigations": [
         {
             "destination": "Nck30Missionary2-5",
-            "description": "Next",
+            "description": "Next(climax)",
             "icon": "OStim/symbols/arrow_right"
         },
         {
@@ -29,10 +29,13 @@
             "intendedSex": "male",
             "sosBend": 2,
             "scale": 1,
-            "feetOnGround": false,
+            "feetOnGround": true,
             "tags": [
-                "lyingfront"
-            ]
+                "allfours"
+            ],
+            "autoTransitions": {
+                "climax": "Nck30Missionary2-5"
+            }
         },
         {
             "intendedSex": "female",
@@ -40,7 +43,10 @@
             "feetOnGround": false,
             "tags": [
                 "lyingback"
-            ]
+            ],
+            "autoTransitions": {
+                "climax": "Nck30Missionary2-5"
+            }
         }
     ],
     "actions": [

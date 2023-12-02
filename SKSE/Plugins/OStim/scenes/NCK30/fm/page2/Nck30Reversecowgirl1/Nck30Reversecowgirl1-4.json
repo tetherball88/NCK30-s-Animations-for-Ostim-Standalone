@@ -5,7 +5,7 @@
     "navigations": [
         {
             "destination": "Nck30Reversecowgirl1-5",
-            "description": "Next",
+            "description": "Next(climax)",
             "icon": "OStim/symbols/arrow_right"
         },
         {
@@ -32,7 +32,10 @@
             "feetOnGround": false,
             "tags": [
                 "lyingback"
-            ]
+            ],
+            "autoTransitions": {
+                "climax": "Nck30Reversecowgirl1-5"
+            }
         },
         {
             "intendedSex": "female",
@@ -41,7 +44,10 @@
             "tags": [
                 "kneeling",
                 "facingaway"
-            ]
+            ],
+            "autoTransitions": {
+                "climax": "Nck30Reversecowgirl1-5"
+            }
         }
     ],
     "actions": [
@@ -53,6 +59,6 @@
     ],
     "tags": [
         "nck30",
-        "cowgirl"
+        "reversecowgirl"
     ]
 }

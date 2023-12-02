@@ -1,49 +1,9 @@
-b -o Nck30Assmasterpiece_1_1 ..\NCK30\fmPos\Nck30Assmasterpiece\Nck30Assmasterpiece_1_1.hkx NCK30sofa01A 
-b -o Nck30Assmasterpiece_2_1 ..\NCK30\fmPos\Nck30Assmasterpiece\Nck30Assmasterpiece_2_1.hkx NCK30sofa01A 
-b -o Nck30Assmasterpiece_3_1 ..\NCK30\fmPos\Nck30Assmasterpiece\Nck30Assmasterpiece_3_1.hkx NCK30sofa01A 
-b -o Nck30Assmasterpiece_4_1 ..\NCK30\fmPos\Nck30Assmasterpiece\Nck30Assmasterpiece_4_1.hkx NCK30sofa01A 
-b -o Nck30Assmasterpiece_5_1 ..\NCK30\fmPos\Nck30Assmasterpiece\Nck30Assmasterpiece_5_1.hkx NCK30sofa01A 
-b -Tn Nck30Assmasterpiece_1_0 ..\NCK30\fmPos\Nck30Assmasterpiece\Nck30Assmasterpiece_1_0.hkx  
-b -Tn Nck30Assmasterpiece_2_0 ..\NCK30\fmPos\Nck30Assmasterpiece\Nck30Assmasterpiece_2_0.hkx  
-b -Tn Nck30Assmasterpiece_3_0 ..\NCK30\fmPos\Nck30Assmasterpiece\Nck30Assmasterpiece_3_0.hkx  
-b -Tn Nck30Assmasterpiece_4_0 ..\NCK30\fmPos\Nck30Assmasterpiece\Nck30Assmasterpiece_4_0.hkx  
-b -Tn Nck30Assmasterpiece_5_0 ..\NCK30\fmPos\Nck30Assmasterpiece\Nck30Assmasterpiece_5_0.hkx  
-b -o Nck30Beachball_1_1 ..\NCK30\fmPos\Nck30Beachball\Nck30Beachball_1_1.hkx NCK30beachball01 
-b -o Nck30Beachball_2_1 ..\NCK30\fmPos\Nck30Beachball\Nck30Beachball_2_1.hkx NCK30beachball01 
-b -o Nck30Beachball_3_1 ..\NCK30\fmPos\Nck30Beachball\Nck30Beachball_3_1.hkx NCK30beachball01 
-b -o Nck30Beachball_4_1 ..\NCK30\fmPos\Nck30Beachball\Nck30Beachball_4_1.hkx NCK30beachball01 
-b -o Nck30Beachball_5_1 ..\NCK30\fmPos\Nck30Beachball\Nck30Beachball_5_1.hkx NCK30beachball01 
-b -Tn Nck30Beachball_1_0 ..\NCK30\fmPos\Nck30Beachball\Nck30Beachball_1_0.hkx  
-b -Tn Nck30Beachball_2_0 ..\NCK30\fmPos\Nck30Beachball\Nck30Beachball_2_0.hkx  
-b -Tn Nck30Beachball_3_0 ..\NCK30\fmPos\Nck30Beachball\Nck30Beachball_3_0.hkx  
-b -Tn Nck30Beachball_4_0 ..\NCK30\fmPos\Nck30Beachball\Nck30Beachball_4_0.hkx  
-b -Tn Nck30Beachball_5_0 ..\NCK30\fmPos\Nck30Beachball\Nck30Beachball_5_0.hkx  
-b -Tn Nck30Bedtimebreeding_1_1 ..\NCK30\fmPos\Nck30Bedtimebreeding\Nck30Bedtimebreeding_1_1.hkx  
-b -Tn Nck30Bedtimebreeding_2_1 ..\NCK30\fmPos\Nck30Bedtimebreeding\Nck30Bedtimebreeding_2_1.hkx  
-b -Tn Nck30Bedtimebreeding_3_1 ..\NCK30\fmPos\Nck30Bedtimebreeding\Nck30Bedtimebreeding_3_1.hkx  
-b -Tn Nck30Bedtimebreeding_4_1 ..\NCK30\fmPos\Nck30Bedtimebreeding\Nck30Bedtimebreeding_4_1.hkx  
-b -Tn Nck30Bedtimebreeding_5_1 ..\NCK30\fmPos\Nck30Bedtimebreeding\Nck30Bedtimebreeding_5_1.hkx  
-b -Tn Nck30Bedtimebreeding_1_0 ..\NCK30\fmPos\Nck30Bedtimebreeding\Nck30Bedtimebreeding_1_0.hkx  
-b -Tn Nck30Bedtimebreeding_2_0 ..\NCK30\fmPos\Nck30Bedtimebreeding\Nck30Bedtimebreeding_2_0.hkx  
-b -Tn Nck30Bedtimebreeding_3_0 ..\NCK30\fmPos\Nck30Bedtimebreeding\Nck30Bedtimebreeding_3_0.hkx  
-b -Tn Nck30Bedtimebreeding_4_0 ..\NCK30\fmPos\Nck30Bedtimebreeding\Nck30Bedtimebreeding_4_0.hkx  
-b -Tn Nck30Bedtimebreeding_5_0 ..\NCK30\fmPos\Nck30Bedtimebreeding\Nck30Bedtimebreeding_5_0.hkx  
-b -Tn Nck30Carnalcuisine_1_1 ..\NCK30\fmPos\Nck30Carnalcuisine\Nck30Carnalcuisine_1_1.hkx  
-b -Tn Nck30Carnalcuisine_2_1 ..\NCK30\fmPos\Nck30Carnalcuisine\Nck30Carnalcuisine_2_1.hkx  
-b -Tn Nck30Carnalcuisine_3_1 ..\NCK30\fmPos\Nck30Carnalcuisine\Nck30Carnalcuisine_3_1.hkx  
 b -Tn Nck30Carnalcuisine_1_0 ..\NCK30\fmPos\Nck30Carnalcuisine\Nck30Carnalcuisine_1_0.hkx  
 b -Tn Nck30Carnalcuisine_2_0 ..\NCK30\fmPos\Nck30Carnalcuisine\Nck30Carnalcuisine_2_0.hkx  
 b -Tn Nck30Carnalcuisine_3_0 ..\NCK30\fmPos\Nck30Carnalcuisine\Nck30Carnalcuisine_3_0.hkx  
-b -Tn Nck30Chair1_1_1 ..\NCK30\fmPos\Nck30Chair1\Nck30Chair1_1_1.hkx  
-b -Tn Nck30Chair1_2_1 ..\NCK30\fmPos\Nck30Chair1\Nck30Chair1_2_1.hkx  
-b -Tn Nck30Chair1_3_1 ..\NCK30\fmPos\Nck30Chair1\Nck30Chair1_3_1.hkx  
-b -Tn Nck30Chair1_4_1 ..\NCK30\fmPos\Nck30Chair1\Nck30Chair1_4_1.hkx  
-b -Tn Nck30Chair1_5_1 ..\NCK30\fmPos\Nck30Chair1\Nck30Chair1_5_1.hkx  
-b -o Nck30Chair1_1_0 ..\NCK30\fmPos\Nck30Chair1\Nck30Chair1_1_0.hkx NCK30chair01 
-b -o Nck30Chair1_2_0 ..\NCK30\fmPos\Nck30Chair1\Nck30Chair1_2_0.hkx NCK30chair01 
-b -o Nck30Chair1_3_0 ..\NCK30\fmPos\Nck30Chair1\Nck30Chair1_3_0.hkx NCK30chair01 
-b -o Nck30Chair1_4_0 ..\NCK30\fmPos\Nck30Chair1\Nck30Chair1_4_0.hkx NCK30chair01 
-b -o Nck30Chair1_5_0 ..\NCK30\fmPos\Nck30Chair1\Nck30Chair1_5_0.hkx NCK30chair01 
+b -Tn Nck30Carnalcuisine_1_1 ..\NCK30\fmPos\Nck30Carnalcuisine\Nck30Carnalcuisine_1_1.hkx  
+b -Tn Nck30Carnalcuisine_2_1 ..\NCK30\fmPos\Nck30Carnalcuisine\Nck30Carnalcuisine_2_1.hkx  
+b -Tn Nck30Carnalcuisine_3_1 ..\NCK30\fmPos\Nck30Carnalcuisine\Nck30Carnalcuisine_3_1.hkx  
 b -Tn Nck30Cowgirl1_1_1 ..\NCK30\fmPos\Nck30Cowgirl1\Nck30Cowgirl1_1_1.hkx  
 b -Tn Nck30Cowgirl1_1_1 ..\NCK30\fmPos\Nck30Cowgirl1\Nck30Cowgirl1_1_1.hkx  
 b -Tn Nck30Cowgirl1_2_1 ..\NCK30\fmPos\Nck30Cowgirl1\Nck30Cowgirl1_2_1.hkx  
@@ -134,44 +94,12 @@ b -Tn Nck30Fullfrontal_2_0 ..\NCK30\fmPos\Nck30Fullfrontal\Nck30Fullfrontal_2_0.
 b -Tn Nck30Fullfrontal_3_0 ..\NCK30\fmPos\Nck30Fullfrontal\Nck30Fullfrontal_3_0.hkx  
 b -Tn Nck30Fullfrontal_4_0 ..\NCK30\fmPos\Nck30Fullfrontal\Nck30Fullfrontal_4_0.hkx  
 b -Tn Nck30Fullfrontal_5_0 ..\NCK30\fmPos\Nck30Fullfrontal\Nck30Fullfrontal_5_0.hkx  
-b -o Nck30Greekgoddess_1_1 ..\NCK30\fmPos\Nck30Greekgoddess\Nck30Greekgoddess_1_1.hkx NCK30wallpillar01 
-b -o Nck30Greekgoddess_2_1 ..\NCK30\fmPos\Nck30Greekgoddess\Nck30Greekgoddess_2_1.hkx NCK30wallpillar01 
-b -o Nck30Greekgoddess_3_1 ..\NCK30\fmPos\Nck30Greekgoddess\Nck30Greekgoddess_3_1.hkx NCK30wallpillar01 
-b -o Nck30Greekgoddess_4_1 ..\NCK30\fmPos\Nck30Greekgoddess\Nck30Greekgoddess_4_1.hkx NCK30wallpillar01 
-b -o Nck30Greekgoddess_5_1 ..\NCK30\fmPos\Nck30Greekgoddess\Nck30Greekgoddess_5_1.hkx NCK30wallpillar01 
-b -Tn Nck30Greekgoddess_1_0 ..\NCK30\fmPos\Nck30Greekgoddess\Nck30Greekgoddess_1_0.hkx  
-b -Tn Nck30Greekgoddess_2_0 ..\NCK30\fmPos\Nck30Greekgoddess\Nck30Greekgoddess_2_0.hkx  
-b -Tn Nck30Greekgoddess_3_0 ..\NCK30\fmPos\Nck30Greekgoddess\Nck30Greekgoddess_3_0.hkx  
-b -Tn Nck30Greekgoddess_4_0 ..\NCK30\fmPos\Nck30Greekgoddess\Nck30Greekgoddess_4_0.hkx  
-b -Tn Nck30Greekgoddess_5_0 ..\NCK30\fmPos\Nck30Greekgoddess\Nck30Greekgoddess_5_0.hkx  
-b -o Nck30Hottub_1_1 ..\NCK30\fmPos\Nck30Hottub\Nck30Hottub_1_1.hkx NCK30tub01 
-b -o Nck30Hottub_2_1 ..\NCK30\fmPos\Nck30Hottub\Nck30Hottub_2_1.hkx NCK30tub01 
-b -o Nck30Hottub_3_1 ..\NCK30\fmPos\Nck30Hottub\Nck30Hottub_3_1.hkx NCK30tub01 
-b -o Nck30Hottub_4_1 ..\NCK30\fmPos\Nck30Hottub\Nck30Hottub_4_1.hkx NCK30tub01 
-b -o Nck30Hottub_5_1 ..\NCK30\fmPos\Nck30Hottub\Nck30Hottub_5_1.hkx NCK30tub01 
-b -o Nck30Hottub_6_1 ..\NCK30\fmPos\Nck30Hottub\Nck30Hottub_6_1.hkx NCK30tub01 
-b -Tn Nck30Hottub_1_0 ..\NCK30\fmPos\Nck30Hottub\Nck30Hottub_1_0.hkx  
-b -Tn Nck30Hottub_2_0 ..\NCK30\fmPos\Nck30Hottub\Nck30Hottub_2_0.hkx  
-b -Tn Nck30Hottub_3_0 ..\NCK30\fmPos\Nck30Hottub\Nck30Hottub_3_0.hkx  
-b -Tn Nck30Hottub_4_0 ..\NCK30\fmPos\Nck30Hottub\Nck30Hottub_4_0.hkx  
-b -Tn Nck30Hottub_5_0 ..\NCK30\fmPos\Nck30Hottub\Nck30Hottub_5_0.hkx  
-b -Tn Nck30Hottub_6_0 ..\NCK30\fmPos\Nck30Hottub\Nck30Hottub_6_0.hkx  
-b -Tn Nck30Makingout_1_1 ..\NCK30\fmPos\Nck30Makingout\Nck30Makingout_1_1.hkx  
-b -Tn Nck30Makingout_2_1 ..\NCK30\fmPos\Nck30Makingout\Nck30Makingout_2_1.hkx  
-b -Tn Nck30Makingout_3_1 ..\NCK30\fmPos\Nck30Makingout\Nck30Makingout_3_1.hkx  
 b -Tn Nck30Makingout_1_0 ..\NCK30\fmPos\Nck30Makingout\Nck30Makingout_1_0.hkx  
 b -Tn Nck30Makingout_2_0 ..\NCK30\fmPos\Nck30Makingout\Nck30Makingout_2_0.hkx  
 b -Tn Nck30Makingout_3_0 ..\NCK30\fmPos\Nck30Makingout\Nck30Makingout_3_0.hkx  
-b -o Nck30Massagemadness_1_1 ..\NCK30\fmPos\Nck30Massagemadness\Nck30Massagemadness_1_1.hkx NCK30nobletablelow01 
-b -o Nck30Massagemadness_2_1 ..\NCK30\fmPos\Nck30Massagemadness\Nck30Massagemadness_2_1.hkx NCK30nobletablelow01 
-b -o Nck30Massagemadness_3_1 ..\NCK30\fmPos\Nck30Massagemadness\Nck30Massagemadness_3_1.hkx NCK30nobletablelow01 
-b -o Nck30Massagemadness_4_1 ..\NCK30\fmPos\Nck30Massagemadness\Nck30Massagemadness_4_1.hkx NCK30nobletablelow01 
-b -o Nck30Massagemadness_5_1 ..\NCK30\fmPos\Nck30Massagemadness\Nck30Massagemadness_5_1.hkx NCK30nobletablelow01 
-b -Tn Nck30Massagemadness_1_0 ..\NCK30\fmPos\Nck30Massagemadness\Nck30Massagemadness_1_0.hkx  
-b -Tn Nck30Massagemadness_2_0 ..\NCK30\fmPos\Nck30Massagemadness\Nck30Massagemadness_2_0.hkx  
-b -Tn Nck30Massagemadness_3_0 ..\NCK30\fmPos\Nck30Massagemadness\Nck30Massagemadness_3_0.hkx  
-b -Tn Nck30Massagemadness_4_0 ..\NCK30\fmPos\Nck30Massagemadness\Nck30Massagemadness_4_0.hkx  
-b -Tn Nck30Massagemadness_5_0 ..\NCK30\fmPos\Nck30Massagemadness\Nck30Massagemadness_5_0.hkx  
+b -Tn Nck30Makingout_1_1 ..\NCK30\fmPos\Nck30Makingout\Nck30Makingout_1_1.hkx  
+b -Tn Nck30Makingout_2_1 ..\NCK30\fmPos\Nck30Makingout\Nck30Makingout_2_1.hkx  
+b -Tn Nck30Makingout_3_1 ..\NCK30\fmPos\Nck30Makingout\Nck30Makingout_3_1.hkx  
 b -Tn Nck30Missionary1_1_1 ..\NCK30\fmPos\Nck30Missionary1\Nck30Missionary1_1_1.hkx  
 b -Tn Nck30Missionary1_2_1 ..\NCK30\fmPos\Nck30Missionary1\Nck30Missionary1_2_1.hkx  
 b -Tn Nck30Missionary1_3_1 ..\NCK30\fmPos\Nck30Missionary1\Nck30Missionary1_3_1.hkx  
@@ -192,16 +120,6 @@ b -Tn Nck30Missionary2_2_0 ..\NCK30\fmPos\Nck30Missionary2\Nck30Missionary2_2_0.
 b -Tn Nck30Missionary2_3_0 ..\NCK30\fmPos\Nck30Missionary2\Nck30Missionary2_3_0.hkx  
 b -Tn Nck30Missionary2_4_0 ..\NCK30\fmPos\Nck30Missionary2\Nck30Missionary2_4_0.hkx  
 b -Tn Nck30Missionary2_5_0 ..\NCK30\fmPos\Nck30Missionary2\Nck30Missionary2_5_0.hkx  
-b -o Nck30Mountmilf_1_1 ..\NCK30\fmPos\Nck30Mountmilf\Nck30Mountmilf_1_1.hkx NCK30chair01 
-b -o Nck30Mountmilf_2_1 ..\NCK30\fmPos\Nck30Mountmilf\Nck30Mountmilf_2_1.hkx NCK30chair01 
-b -o Nck30Mountmilf_3_1 ..\NCK30\fmPos\Nck30Mountmilf\Nck30Mountmilf_3_1.hkx NCK30chair01 
-b -o Nck30Mountmilf_4_1 ..\NCK30\fmPos\Nck30Mountmilf\Nck30Mountmilf_4_1.hkx NCK30chair01 
-b -o Nck30Mountmilf_5_1 ..\NCK30\fmPos\Nck30Mountmilf\Nck30Mountmilf_5_1.hkx NCK30chair01 
-b -Tn Nck30Mountmilf_1_0 ..\NCK30\fmPos\Nck30Mountmilf\Nck30Mountmilf_1_0.hkx  
-b -Tn Nck30Mountmilf_2_0 ..\NCK30\fmPos\Nck30Mountmilf\Nck30Mountmilf_2_0.hkx  
-b -Tn Nck30Mountmilf_3_0 ..\NCK30\fmPos\Nck30Mountmilf\Nck30Mountmilf_3_0.hkx  
-b -Tn Nck30Mountmilf_4_0 ..\NCK30\fmPos\Nck30Mountmilf\Nck30Mountmilf_4_0.hkx  
-b -Tn Nck30Mountmilf_5_0 ..\NCK30\fmPos\Nck30Mountmilf\Nck30Mountmilf_5_0.hkx  
 b -Tn Nck30Reversecowgirl1_1_1 ..\NCK30\fmPos\Nck30Reversecowgirl1\Nck30Reversecowgirl1_1_1.hkx  
 b -Tn Nck30Reversecowgirl1_2_1 ..\NCK30\fmPos\Nck30Reversecowgirl1\Nck30Reversecowgirl1_2_1.hkx  
 b -Tn Nck30Reversecowgirl1_3_1 ..\NCK30\fmPos\Nck30Reversecowgirl1\Nck30Reversecowgirl1_3_1.hkx  
@@ -228,26 +146,6 @@ b -Tn Nck30Romanticface2face_5_0 ..\NCK30\fmPos\Nck30Romanticface2face\Nck30Roma
 b -Tn Nck30Romanticface2face_6_0 ..\NCK30\fmPos\Nck30Romanticface2face\Nck30Romanticface2face_6_0.hkx  
 b -Tn Nck30Romanticface2face_7_0 ..\NCK30\fmPos\Nck30Romanticface2face\Nck30Romanticface2face_7_0.hkx  
 b -Tn Nck30Romanticface2face_8_0 ..\NCK30\fmPos\Nck30Romanticface2face\Nck30Romanticface2face_8_0.hkx  
-b -o Nck30Shelf1_1_1 ..\NCK30\fmPos\Nck30Shelf1\Nck30Shelf1_1_1.hkx NCK30shelf01 
-b -o Nck30Shelf1_2_1 ..\NCK30\fmPos\Nck30Shelf1\Nck30Shelf1_2_1.hkx NCK30shelf01 
-b -o Nck30Shelf1_3_1 ..\NCK30\fmPos\Nck30Shelf1\Nck30Shelf1_3_1.hkx NCK30shelf01 
-b -o Nck30Shelf1_4_1 ..\NCK30\fmPos\Nck30Shelf1\Nck30Shelf1_4_1.hkx NCK30shelf01 
-b -o Nck30Shelf1_5_1 ..\NCK30\fmPos\Nck30Shelf1\Nck30Shelf1_5_1.hkx NCK30shelf01 
-b -Tn Nck30Shelf1_1_0 ..\NCK30\fmPos\Nck30Shelf1\Nck30Shelf1_1_0.hkx  
-b -Tn Nck30Shelf1_2_0 ..\NCK30\fmPos\Nck30Shelf1\Nck30Shelf1_2_0.hkx  
-b -Tn Nck30Shelf1_3_0 ..\NCK30\fmPos\Nck30Shelf1\Nck30Shelf1_3_0.hkx  
-b -Tn Nck30Shelf1_4_0 ..\NCK30\fmPos\Nck30Shelf1\Nck30Shelf1_4_0.hkx  
-b -Tn Nck30Shelf1_5_0 ..\NCK30\fmPos\Nck30Shelf1\Nck30Shelf1_5_0.hkx  
-b -o Nck30Sleazyrider_1_1 ..\NCK30\fmPos\Nck30Sleazyrider\Nck30Sleazyrider_1_1.hkx NCK30sofa01 
-b -o Nck30Sleazyrider_2_1 ..\NCK30\fmPos\Nck30Sleazyrider\Nck30Sleazyrider_2_1.hkx NCK30sofa01 
-b -o Nck30Sleazyrider_3_1 ..\NCK30\fmPos\Nck30Sleazyrider\Nck30Sleazyrider_3_1.hkx NCK30sofa01 
-b -o Nck30Sleazyrider_4_1 ..\NCK30\fmPos\Nck30Sleazyrider\Nck30Sleazyrider_4_1.hkx NCK30sofa01 
-b -o Nck30Sleazyrider_5_1 ..\NCK30\fmPos\Nck30Sleazyrider\Nck30Sleazyrider_5_1.hkx NCK30sofa01 
-b -Tn Nck30Sleazyrider_1_0 ..\NCK30\fmPos\Nck30Sleazyrider\Nck30Sleazyrider_1_0.hkx  
-b -Tn Nck30Sleazyrider_2_0 ..\NCK30\fmPos\Nck30Sleazyrider\Nck30Sleazyrider_2_0.hkx  
-b -Tn Nck30Sleazyrider_3_0 ..\NCK30\fmPos\Nck30Sleazyrider\Nck30Sleazyrider_3_0.hkx  
-b -Tn Nck30Sleazyrider_4_0 ..\NCK30\fmPos\Nck30Sleazyrider\Nck30Sleazyrider_4_0.hkx  
-b -Tn Nck30Sleazyrider_5_0 ..\NCK30\fmPos\Nck30Sleazyrider\Nck30Sleazyrider_5_0.hkx  
 b -Tn Nck30Standing1_1_1 ..\NCK30\fmPos\Nck30Standing1\Nck30Standing1_1_1.hkx  
 b -Tn Nck30Standing1_2_1 ..\NCK30\fmPos\Nck30Standing1\Nck30Standing1_2_1.hkx  
 b -Tn Nck30Standing1_3_1 ..\NCK30\fmPos\Nck30Standing1\Nck30Standing1_3_1.hkx  
@@ -268,63 +166,3 @@ b -Tn Nck30Standing2_2_0 ..\NCK30\fmPos\Nck30Standing2\Nck30Standing2_2_0.hkx
 b -Tn Nck30Standing2_3_0 ..\NCK30\fmPos\Nck30Standing2\Nck30Standing2_3_0.hkx  
 b -Tn Nck30Standing2_4_0 ..\NCK30\fmPos\Nck30Standing2\Nck30Standing2_4_0.hkx  
 b -Tn Nck30Standing2_5_0 ..\NCK30\fmPos\Nck30Standing2\Nck30Standing2_5_0.hkx  
-b -Tn Nck30Sundaysoulmate_1_1 ..\NCK30\fmPos\Nck30Sundaysoulmate\Nck30Sundaysoulmate_1_1.hkx  
-b -Tn Nck30Sundaysoulmate_2_1 ..\NCK30\fmPos\Nck30Sundaysoulmate\Nck30Sundaysoulmate_2_1.hkx  
-b -Tn Nck30Sundaysoulmate_3_1 ..\NCK30\fmPos\Nck30Sundaysoulmate\Nck30Sundaysoulmate_3_1.hkx  
-b -Tn Nck30Sundaysoulmate_4_1 ..\NCK30\fmPos\Nck30Sundaysoulmate\Nck30Sundaysoulmate_4_1.hkx  
-b -Tn Nck30Sundaysoulmate_5_1 ..\NCK30\fmPos\Nck30Sundaysoulmate\Nck30Sundaysoulmate_5_1.hkx  
-b -Tn Nck30Sundaysoulmate_1_0 ..\NCK30\fmPos\Nck30Sundaysoulmate\Nck30Sundaysoulmate_1_0.hkx  
-b -Tn Nck30Sundaysoulmate_2_0 ..\NCK30\fmPos\Nck30Sundaysoulmate\Nck30Sundaysoulmate_2_0.hkx  
-b -Tn Nck30Sundaysoulmate_3_0 ..\NCK30\fmPos\Nck30Sundaysoulmate\Nck30Sundaysoulmate_3_0.hkx  
-b -Tn Nck30Sundaysoulmate_4_0 ..\NCK30\fmPos\Nck30Sundaysoulmate\Nck30Sundaysoulmate_4_0.hkx  
-b -Tn Nck30Sundaysoulmate_5_0 ..\NCK30\fmPos\Nck30Sundaysoulmate\Nck30Sundaysoulmate_5_0.hkx  
-b -o Nck30Table1_1_1 ..\NCK30\fmPos\Nck30Table1\Nck30Table1_1_1.hkx NCK30tablethin01 
-b -o Nck30Table1_2_1 ..\NCK30\fmPos\Nck30Table1\Nck30Table1_2_1.hkx NCK30tablethin01 
-b -o Nck30Table1_3_1 ..\NCK30\fmPos\Nck30Table1\Nck30Table1_3_1.hkx NCK30tablethin01 
-b -o Nck30Table1_4_1 ..\NCK30\fmPos\Nck30Table1\Nck30Table1_4_1.hkx NCK30tablethin01 
-b -o Nck30Table1_5_1 ..\NCK30\fmPos\Nck30Table1\Nck30Table1_5_1.hkx NCK30tablethin01 
-b -Tn Nck30Table1_1_0 ..\NCK30\fmPos\Nck30Table1\Nck30Table1_1_0.hkx  
-b -Tn Nck30Table1_2_0 ..\NCK30\fmPos\Nck30Table1\Nck30Table1_2_0.hkx  
-b -Tn Nck30Table1_3_0 ..\NCK30\fmPos\Nck30Table1\Nck30Table1_3_0.hkx  
-b -Tn Nck30Table1_4_0 ..\NCK30\fmPos\Nck30Table1\Nck30Table1_4_0.hkx  
-b -Tn Nck30Table1_5_0 ..\NCK30\fmPos\Nck30Table1\Nck30Table1_5_0.hkx  
-b -o Nck30Table2_1_1 ..\NCK30\fmPos\Nck30Table2\Nck30Table2_1_1.hkx NCK30tableround01 
-b -o Nck30Table2_2_1 ..\NCK30\fmPos\Nck30Table2\Nck30Table2_2_1.hkx NCK30tableround01 
-b -o Nck30Table2_3_1 ..\NCK30\fmPos\Nck30Table2\Nck30Table2_3_1.hkx NCK30tableround01 
-b -o Nck30Table2_4_1 ..\NCK30\fmPos\Nck30Table2\Nck30Table2_4_1.hkx NCK30tableround01 
-b -o Nck30Table2_5_1 ..\NCK30\fmPos\Nck30Table2\Nck30Table2_5_1.hkx NCK30tableround01 
-b -o Nck30Table2_6_1 ..\NCK30\fmPos\Nck30Table2\Nck30Table2_6_1.hkx NCK30tableround01 
-b -o Nck30Table2_7_1 ..\NCK30\fmPos\Nck30Table2\Nck30Table2_7_1.hkx NCK30tableround01 
-b -o Nck30Table2_8_1 ..\NCK30\fmPos\Nck30Table2\Nck30Table2_8_1.hkx NCK30tableround01 
-b -Tn Nck30Table2_1_0 ..\NCK30\fmPos\Nck30Table2\Nck30Table2_1_0.hkx  
-b -Tn Nck30Table2_2_0 ..\NCK30\fmPos\Nck30Table2\Nck30Table2_2_0.hkx  
-b -Tn Nck30Table2_3_0 ..\NCK30\fmPos\Nck30Table2\Nck30Table2_3_0.hkx  
-b -Tn Nck30Table2_4_0 ..\NCK30\fmPos\Nck30Table2\Nck30Table2_4_0.hkx  
-b -Tn Nck30Table2_5_0 ..\NCK30\fmPos\Nck30Table2\Nck30Table2_5_0.hkx  
-b -Tn Nck30Table2_6_0 ..\NCK30\fmPos\Nck30Table2\Nck30Table2_6_0.hkx  
-b -Tn Nck30Table2_7_0 ..\NCK30\fmPos\Nck30Table2\Nck30Table2_7_0.hkx  
-b -Tn Nck30Table2_8_0 ..\NCK30\fmPos\Nck30Table2\Nck30Table2_8_0.hkx  
-b -Tn Nck30Wallseduction_1_1 ..\NCK30\fmPos\Nck30Wallseduction\Nck30Wallseduction_1_1.hkx  
-b -Tn Nck30Wallseduction_2_1 ..\NCK30\fmPos\Nck30Wallseduction\Nck30Wallseduction_2_1.hkx  
-b -Tn Nck30Wallseduction_3_1 ..\NCK30\fmPos\Nck30Wallseduction\Nck30Wallseduction_3_1.hkx  
-b -Tn Nck30Wallseduction_4_1 ..\NCK30\fmPos\Nck30Wallseduction\Nck30Wallseduction_4_1.hkx  
-b -Tn Nck30Wallseduction_5_1 ..\NCK30\fmPos\Nck30Wallseduction\Nck30Wallseduction_5_1.hkx  
-b -Tn Nck30Wallseduction_1_0 ..\NCK30\fmPos\Nck30Wallseduction\Nck30Wallseduction_1_0.hkx  
-b -Tn Nck30Wallseduction_2_0 ..\NCK30\fmPos\Nck30Wallseduction\Nck30Wallseduction_2_0.hkx  
-b -Tn Nck30Wallseduction_3_0 ..\NCK30\fmPos\Nck30Wallseduction\Nck30Wallseduction_3_0.hkx  
-b -Tn Nck30Wallseduction_4_0 ..\NCK30\fmPos\Nck30Wallseduction\Nck30Wallseduction_4_0.hkx  
-b -Tn Nck30Wallseduction_5_0 ..\NCK30\fmPos\Nck30Wallseduction\Nck30Wallseduction_5_0.hkx  
-b -o Nck30Wildweekend_1_1 ..\NCK30\fmPos\Nck30Wildweekend\Nck30Wildweekend_1_1.hkx NCK30sofa02 
-b -o Nck30Wildweekend_2_1 ..\NCK30\fmPos\Nck30Wildweekend\Nck30Wildweekend_2_1.hkx NCK30sofa02 
-b -o Nck30Wildweekend_3_1 ..\NCK30\fmPos\Nck30Wildweekend\Nck30Wildweekend_3_1.hkx NCK30sofa02 
-b -o Nck30Wildweekend_4_1 ..\NCK30\fmPos\Nck30Wildweekend\Nck30Wildweekend_4_1.hkx NCK30sofa02 
-b -o Nck30Wildweekend_5_1 ..\NCK30\fmPos\Nck30Wildweekend\Nck30Wildweekend_5_1.hkx NCK30sofa02 
-b -o Nck30Wildweekend_6_1 ..\NCK30\fmPos\Nck30Wildweekend\Nck30Wildweekend_6_1.hkx NCK30sofa02 
-b -o Nck30Wildweekend_7_1 ..\NCK30\fmPos\Nck30Wildweekend\Nck30Wildweekend_7_1.hkx NCK30sofa02 
-b -Tn Nck30Wildweekend_1_0 ..\NCK30\fmPos\Nck30Wildweekend\Nck30Wildweekend_1_0.hkx  
-b -Tn Nck30Wildweekend_2_0 ..\NCK30\fmPos\Nck30Wildweekend\Nck30Wildweekend_2_0.hkx  
-b -Tn Nck30Wildweekend_3_0 ..\NCK30\fmPos\Nck30Wildweekend\Nck30Wildweekend_3_0.hkx  
-b -Tn Nck30Wildweekend_4_0 ..\NCK30\fmPos\Nck30Wildweekend\Nck30Wildweekend_4_0.hkx  
-b -Tn Nck30Wildweekend_5_0 ..\NCK30\fmPos\Nck30Wildweekend\Nck30Wildweekend_5_0.hkx  
-b -Tn Nck30Wildweekend_6_0 ..\NCK30\fmPos\Nck30Wildweekend\Nck30Wildweekend_6_0.hkx  
-b -Tn Nck30Wildweekend_7_0 ..\NCK30\fmPos\Nck30Wildweekend\Nck30Wildweekend_7_0.hkx  

@@ -5,7 +5,7 @@
     "navigations": [
         {
             "destination": "Nck30Romanticface2face-8",
-            "description": "Next",
+            "description": "Next(climax)",
             "icon": "OStim/symbols/arrow_right"
         },
         {
@@ -27,12 +27,15 @@
     "actors": [
         {
             "intendedSex": "male",
-            "sosBend": 2,
+            "sosBend": 5,
             "scale": 1,
-            "feetOnGround": false,
+            "feetOnGround": true,
             "tags": [
-                "lyingfront"
-            ]
+                "allfours"
+            ],
+            "autoTransitions": {
+                "climax": "Nck30Romanticface2face-8"
+            }
         },
         {
             "intendedSex": "female",
@@ -40,12 +43,25 @@
             "feetOnGround": false,
             "tags": [
                 "lyingback"
-            ]
+            ],
+            "autoTransitions": {
+                "climax": "Nck30Romanticface2face-8"
+            }
         }
     ],
     "actions": [
         {
             "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdinghand",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "kissingneck",
             "actor": 0,
             "target": 1
         }

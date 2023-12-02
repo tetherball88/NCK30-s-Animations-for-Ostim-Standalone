@@ -1,0 +1,50 @@
+{
+    "name": "NCK30 Massage Madness",
+    "modpack": "NCK30Animations",
+    "length": 5,
+    "destination": "Nck30Massagemadness-4",
+    "speeds": [
+        {
+            "animation": "Nck30Massagemadness_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hug",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "nck30",
+        "doggystyle",
+        "transition"
+    ]
+}

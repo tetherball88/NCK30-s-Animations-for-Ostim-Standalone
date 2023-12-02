@@ -37,9 +37,10 @@
         {
             "intendedSex": "female",
             "scale": 1,
-            "feetOnGround": false,
+            "feetOnGround": true,
             "tags": [
-                "kneeling"
+                "squatting",
+                "facingaway"
             ]
         }
     ],
@@ -47,7 +48,8 @@
         {
             "type": "vaginalsex",
             "actor": 0,
-            "target": 1
+            "target": 1,
+            "performer": 1
         }
     ],
     "tags": [

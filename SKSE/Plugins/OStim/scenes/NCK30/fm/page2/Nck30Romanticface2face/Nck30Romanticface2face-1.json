@@ -29,7 +29,7 @@
             "intendedSex": "male",
             "sosBend": 2,
             "scale": 1,
-            "feetOnGround": false,
+            "feetOnGround": true,
             "tags": [
                 "kneeling"
             ]
@@ -37,7 +37,7 @@
         {
             "intendedSex": "female",
             "scale": 1,
-            "feetOnGround": false,
+            "feetOnGround": true,
             "tags": [
                 "kneeling"
             ]
@@ -48,6 +48,16 @@
             "type": "vaginalsex",
             "actor": 0,
             "target": 1
+        },
+        {
+            "type": "hug",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "pattinghead",
+            "actor": 1,
+            "target": 0
         }
     ],
     "tags": [

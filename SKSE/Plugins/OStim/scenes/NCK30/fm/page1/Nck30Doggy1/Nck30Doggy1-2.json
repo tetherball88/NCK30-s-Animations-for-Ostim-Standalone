@@ -29,9 +29,9 @@
             "intendedSex": "male",
             "sosBend": -2,
             "scale": 1,
-            "feetOnGround": false,
+            "feetOnGround": true,
             "tags": [
-                "kneeling"
+                "squatting"
             ]
         },
         {
