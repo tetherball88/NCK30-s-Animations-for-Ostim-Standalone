@@ -1,0 +1,70 @@
+{
+    "name": "NCK30 Mount MILF",
+    "modpack": "NCK30Animations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "Nck30AfMountmilf-5",
+            "description": "Next(climax)",
+            "icon": "OStim/symbols/arrow_right"
+        },
+        {
+            "destination": "Nck30AfMountmilf-3",
+            "description": "Back",
+            "icon": "OStim/symbols/arrow_left"
+        },
+        {
+            "destination": "NCK30AdaptedFmChairHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "Nck30AfMountmilf_4"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -2,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ],
+            "autoTransitions": {
+                "climax": "Nck30AfMountmilf-5"
+            }
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "facingaway"
+            ],
+            "autoTransitions": {
+                "climax": "Nck30AfMountmilf-5"
+            }
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdingneck",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "nck30",
+        "doggystyle"
+    ],
+    "furniture": "chair"
+}

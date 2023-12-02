@@ -1,0 +1,132 @@
+b -o Nck30AfAssmasterpiece_1_1 ..\NCK30Adapted\fmPos\Nck30AfAssmasterpiece\Nck30AfAssmasterpiece_1_1.hkx NCK30sofa01A 
+b -o Nck30AfAssmasterpiece_2_1 ..\NCK30Adapted\fmPos\Nck30AfAssmasterpiece\Nck30AfAssmasterpiece_2_1.hkx NCK30sofa01A 
+b -o Nck30AfAssmasterpiece_3_1 ..\NCK30Adapted\fmPos\Nck30AfAssmasterpiece\Nck30AfAssmasterpiece_3_1.hkx NCK30sofa01A 
+b -o Nck30AfAssmasterpiece_4_1 ..\NCK30Adapted\fmPos\Nck30AfAssmasterpiece\Nck30AfAssmasterpiece_4_1.hkx NCK30sofa01A 
+b -o Nck30AfAssmasterpiece_5_1 ..\NCK30Adapted\fmPos\Nck30AfAssmasterpiece\Nck30AfAssmasterpiece_5_1.hkx NCK30sofa01A 
+b -Tn Nck30AfAssmasterpiece_1_0 ..\NCK30Adapted\fmPos\Nck30AfAssmasterpiece\Nck30AfAssmasterpiece_1_0.hkx  
+b -Tn Nck30AfAssmasterpiece_2_0 ..\NCK30Adapted\fmPos\Nck30AfAssmasterpiece\Nck30AfAssmasterpiece_2_0.hkx  
+b -Tn Nck30AfAssmasterpiece_3_0 ..\NCK30Adapted\fmPos\Nck30AfAssmasterpiece\Nck30AfAssmasterpiece_3_0.hkx  
+b -Tn Nck30AfAssmasterpiece_4_0 ..\NCK30Adapted\fmPos\Nck30AfAssmasterpiece\Nck30AfAssmasterpiece_4_0.hkx  
+b -Tn Nck30AfAssmasterpiece_5_0 ..\NCK30Adapted\fmPos\Nck30AfAssmasterpiece\Nck30AfAssmasterpiece_5_0.hkx  
+b -Tn Nck30AfBeachball_1_1 ..\NCK30Adapted\fmChairPos\Nck30AfBeachball\Nck30AfBeachball_1_1.hkx  
+b -Tn Nck30AfBeachball_2_1 ..\NCK30Adapted\fmChairPos\Nck30AfBeachball\Nck30AfBeachball_2_1.hkx  
+b -Tn Nck30AfBeachball_3_1 ..\NCK30Adapted\fmChairPos\Nck30AfBeachball\Nck30AfBeachball_3_1.hkx  
+b -Tn Nck30AfBeachball_4_1 ..\NCK30Adapted\fmChairPos\Nck30AfBeachball\Nck30AfBeachball_4_1.hkx  
+b -Tn Nck30AfBeachball_5_1 ..\NCK30Adapted\fmChairPos\Nck30AfBeachball\Nck30AfBeachball_5_1.hkx  
+b -Tn Nck30AfBeachball_1_0 ..\NCK30Adapted\fmChairPos\Nck30AfBeachball\Nck30AfBeachball_1_0.hkx  
+b -Tn Nck30AfBeachball_2_0 ..\NCK30Adapted\fmChairPos\Nck30AfBeachball\Nck30AfBeachball_2_0.hkx  
+b -Tn Nck30AfBeachball_3_0 ..\NCK30Adapted\fmChairPos\Nck30AfBeachball\Nck30AfBeachball_3_0.hkx  
+b -Tn Nck30AfBeachball_4_0 ..\NCK30Adapted\fmChairPos\Nck30AfBeachball\Nck30AfBeachball_4_0.hkx  
+b -Tn Nck30AfBeachball_5_0 ..\NCK30Adapted\fmChairPos\Nck30AfBeachball\Nck30AfBeachball_5_0.hkx  
+b -Tn Nck30AfChair1_1_1 ..\NCK30Adapted\fmChairPos\Nck30AfChair1\Nck30AfChair1_1_1.hkx  
+b -Tn Nck30AfChair1_2_1 ..\NCK30Adapted\fmChairPos\Nck30AfChair1\Nck30AfChair1_2_1.hkx  
+b -Tn Nck30AfChair1_3_1 ..\NCK30Adapted\fmChairPos\Nck30AfChair1\Nck30AfChair1_3_1.hkx  
+b -Tn Nck30AfChair1_4_1 ..\NCK30Adapted\fmChairPos\Nck30AfChair1\Nck30AfChair1_4_1.hkx  
+b -Tn Nck30AfChair1_5_1 ..\NCK30Adapted\fmChairPos\Nck30AfChair1\Nck30AfChair1_5_1.hkx  
+b -Tn Nck30AfChair1_1_0 ..\NCK30Adapted\fmChairPos\Nck30AfChair1\Nck30AfChair1_1_0.hkx  
+b -Tn Nck30AfChair1_2_0 ..\NCK30Adapted\fmChairPos\Nck30AfChair1\Nck30AfChair1_2_0.hkx  
+b -Tn Nck30AfChair1_3_0 ..\NCK30Adapted\fmChairPos\Nck30AfChair1\Nck30AfChair1_3_0.hkx  
+b -Tn Nck30AfChair1_4_0 ..\NCK30Adapted\fmChairPos\Nck30AfChair1\Nck30AfChair1_4_0.hkx  
+b -Tn Nck30AfChair1_5_0 ..\NCK30Adapted\fmChairPos\Nck30AfChair1\Nck30AfChair1_5_0.hkx  
+b -Tn Nck30AfGreekgoddess_1_1 ..\NCK30Adapted\fmWallPos\Nck30AfGreekgoddess\Nck30AfGreekgoddess_1_1.hkx  
+b -Tn Nck30AfGreekgoddess_2_1 ..\NCK30Adapted\fmWallPos\Nck30AfGreekgoddess\Nck30AfGreekgoddess_2_1.hkx  
+b -Tn Nck30AfGreekgoddess_3_1 ..\NCK30Adapted\fmWallPos\Nck30AfGreekgoddess\Nck30AfGreekgoddess_3_1.hkx  
+b -Tn Nck30AfGreekgoddess_4_1 ..\NCK30Adapted\fmWallPos\Nck30AfGreekgoddess\Nck30AfGreekgoddess_4_1.hkx  
+b -Tn Nck30AfGreekgoddess_5_1 ..\NCK30Adapted\fmWallPos\Nck30AfGreekgoddess\Nck30AfGreekgoddess_5_1.hkx  
+b -Tn Nck30AfGreekgoddess_1_0 ..\NCK30Adapted\fmWallPos\Nck30AfGreekgoddess\Nck30AfGreekgoddess_1_0.hkx  
+b -Tn Nck30AfGreekgoddess_2_0 ..\NCK30Adapted\fmWallPos\Nck30AfGreekgoddess\Nck30AfGreekgoddess_2_0.hkx  
+b -Tn Nck30AfGreekgoddess_3_0 ..\NCK30Adapted\fmWallPos\Nck30AfGreekgoddess\Nck30AfGreekgoddess_3_0.hkx  
+b -Tn Nck30AfGreekgoddess_4_0 ..\NCK30Adapted\fmWallPos\Nck30AfGreekgoddess\Nck30AfGreekgoddess_4_0.hkx  
+b -Tn Nck30AfGreekgoddess_5_0 ..\NCK30Adapted\fmWallPos\Nck30AfGreekgoddess\Nck30AfGreekgoddess_5_0.hkx  
+b -o Nck30AfHottub_1_1 ..\NCK30Adapted\fmPos\Nck30AfHottub\Nck30AfHottub_1_1.hkx NCK30tub01 
+b -o Nck30AfHottub_2_1 ..\NCK30Adapted\fmPos\Nck30AfHottub\Nck30AfHottub_2_1.hkx NCK30tub01 
+b -o Nck30AfHottub_3_1 ..\NCK30Adapted\fmPos\Nck30AfHottub\Nck30AfHottub_3_1.hkx NCK30tub01 
+b -o Nck30AfHottub_4_1 ..\NCK30Adapted\fmPos\Nck30AfHottub\Nck30AfHottub_4_1.hkx NCK30tub01 
+b -o Nck30AfHottub_5_1 ..\NCK30Adapted\fmPos\Nck30AfHottub\Nck30AfHottub_5_1.hkx NCK30tub01 
+b -o Nck30AfHottub_6_1 ..\NCK30Adapted\fmPos\Nck30AfHottub\Nck30AfHottub_6_1.hkx NCK30tub01 
+b -Tn Nck30AfHottub_1_0 ..\NCK30Adapted\fmPos\Nck30AfHottub\Nck30AfHottub_1_0.hkx  
+b -Tn Nck30AfHottub_2_0 ..\NCK30Adapted\fmPos\Nck30AfHottub\Nck30AfHottub_2_0.hkx  
+b -Tn Nck30AfHottub_3_0 ..\NCK30Adapted\fmPos\Nck30AfHottub\Nck30AfHottub_3_0.hkx  
+b -Tn Nck30AfHottub_4_0 ..\NCK30Adapted\fmPos\Nck30AfHottub\Nck30AfHottub_4_0.hkx  
+b -Tn Nck30AfHottub_5_0 ..\NCK30Adapted\fmPos\Nck30AfHottub\Nck30AfHottub_5_0.hkx  
+b -Tn Nck30AfHottub_6_0 ..\NCK30Adapted\fmPos\Nck30AfHottub\Nck30AfHottub_6_0.hkx  
+b -Tn Nck30AfMassagemadness_1_1 ..\NCK30Adapted\fmBedPos\Nck30AfMassagemadness\Nck30AfMassagemadness_1_1.hkx  
+b -Tn Nck30AfMassagemadness_2_1 ..\NCK30Adapted\fmBedPos\Nck30AfMassagemadness\Nck30AfMassagemadness_2_1.hkx  
+b -Tn Nck30AfMassagemadness_3_1 ..\NCK30Adapted\fmBedPos\Nck30AfMassagemadness\Nck30AfMassagemadness_3_1.hkx  
+b -Tn Nck30AfMassagemadness_4_1 ..\NCK30Adapted\fmBedPos\Nck30AfMassagemadness\Nck30AfMassagemadness_4_1.hkx  
+b -Tn Nck30AfMassagemadness_5_1 ..\NCK30Adapted\fmBedPos\Nck30AfMassagemadness\Nck30AfMassagemadness_5_1.hkx  
+b -Tn Nck30AfMassagemadness_1_0 ..\NCK30Adapted\fmBedPos\Nck30AfMassagemadness\Nck30AfMassagemadness_1_0.hkx  
+b -Tn Nck30AfMassagemadness_2_0 ..\NCK30Adapted\fmBedPos\Nck30AfMassagemadness\Nck30AfMassagemadness_2_0.hkx  
+b -Tn Nck30AfMassagemadness_3_0 ..\NCK30Adapted\fmBedPos\Nck30AfMassagemadness\Nck30AfMassagemadness_3_0.hkx  
+b -Tn Nck30AfMassagemadness_4_0 ..\NCK30Adapted\fmBedPos\Nck30AfMassagemadness\Nck30AfMassagemadness_4_0.hkx  
+b -Tn Nck30AfMassagemadness_5_0 ..\NCK30Adapted\fmBedPos\Nck30AfMassagemadness\Nck30AfMassagemadness_5_0.hkx  
+b -Tn Nck30AfMountmilf_1_1 ..\NCK30Adapted\fmChairPos\Nck30AfMountmilf\Nck30AfMountmilf_1_1.hkx  
+b -Tn Nck30AfMountmilf_2_1 ..\NCK30Adapted\fmChairPos\Nck30AfMountmilf\Nck30AfMountmilf_2_1.hkx  
+b -Tn Nck30AfMountmilf_3_1 ..\NCK30Adapted\fmChairPos\Nck30AfMountmilf\Nck30AfMountmilf_3_1.hkx  
+b -Tn Nck30AfMountmilf_4_1 ..\NCK30Adapted\fmChairPos\Nck30AfMountmilf\Nck30AfMountmilf_4_1.hkx  
+b -Tn Nck30AfMountmilf_5_1 ..\NCK30Adapted\fmChairPos\Nck30AfMountmilf\Nck30AfMountmilf_5_1.hkx  
+b -Tn Nck30AfMountmilf_1_0 ..\NCK30Adapted\fmChairPos\Nck30AfMountmilf\Nck30AfMountmilf_1_0.hkx  
+b -Tn Nck30AfMountmilf_2_0 ..\NCK30Adapted\fmChairPos\Nck30AfMountmilf\Nck30AfMountmilf_2_0.hkx  
+b -Tn Nck30AfMountmilf_3_0 ..\NCK30Adapted\fmChairPos\Nck30AfMountmilf\Nck30AfMountmilf_3_0.hkx  
+b -Tn Nck30AfMountmilf_4_0 ..\NCK30Adapted\fmChairPos\Nck30AfMountmilf\Nck30AfMountmilf_4_0.hkx  
+b -Tn Nck30AfMountmilf_5_0 ..\NCK30Adapted\fmChairPos\Nck30AfMountmilf\Nck30AfMountmilf_5_0.hkx  
+b -o Nck30AfShelf1_1_1 ..\NCK30Adapted\fmPos\Nck30AfShelf1\Nck30AfShelf1_1_1.hkx NCK30shelf01 
+b -o Nck30AfShelf1_2_1 ..\NCK30Adapted\fmPos\Nck30AfShelf1\Nck30AfShelf1_2_1.hkx NCK30shelf01 
+b -o Nck30AfShelf1_3_1 ..\NCK30Adapted\fmPos\Nck30AfShelf1\Nck30AfShelf1_3_1.hkx NCK30shelf01 
+b -o Nck30AfShelf1_4_1 ..\NCK30Adapted\fmPos\Nck30AfShelf1\Nck30AfShelf1_4_1.hkx NCK30shelf01 
+b -o Nck30AfShelf1_5_1 ..\NCK30Adapted\fmPos\Nck30AfShelf1\Nck30AfShelf1_5_1.hkx NCK30shelf01 
+b -Tn Nck30AfShelf1_1_0 ..\NCK30Adapted\fmPos\Nck30AfShelf1\Nck30AfShelf1_1_0.hkx  
+b -Tn Nck30AfShelf1_2_0 ..\NCK30Adapted\fmPos\Nck30AfShelf1\Nck30AfShelf1_2_0.hkx  
+b -Tn Nck30AfShelf1_3_0 ..\NCK30Adapted\fmPos\Nck30AfShelf1\Nck30AfShelf1_3_0.hkx  
+b -Tn Nck30AfShelf1_4_0 ..\NCK30Adapted\fmPos\Nck30AfShelf1\Nck30AfShelf1_4_0.hkx  
+b -Tn Nck30AfShelf1_5_0 ..\NCK30Adapted\fmPos\Nck30AfShelf1\Nck30AfShelf1_5_0.hkx  
+b -Tn Nck30AfSleazyrider_1_1 ..\NCK30Adapted\fmBenchPos\Nck30AfSleazyrider\Nck30AfSleazyrider_1_1.hkx  
+b -Tn Nck30AfSleazyrider_2_1 ..\NCK30Adapted\fmBenchPos\Nck30AfSleazyrider\Nck30AfSleazyrider_2_1.hkx  
+b -Tn Nck30AfSleazyrider_3_1 ..\NCK30Adapted\fmBenchPos\Nck30AfSleazyrider\Nck30AfSleazyrider_3_1.hkx  
+b -Tn Nck30AfSleazyrider_4_1 ..\NCK30Adapted\fmBenchPos\Nck30AfSleazyrider\Nck30AfSleazyrider_4_1.hkx  
+b -Tn Nck30AfSleazyrider_5_1 ..\NCK30Adapted\fmBenchPos\Nck30AfSleazyrider\Nck30AfSleazyrider_5_1.hkx  
+b -Tn Nck30AfSleazyrider_1_0 ..\NCK30Adapted\fmBenchPos\Nck30AfSleazyrider\Nck30AfSleazyrider_1_0.hkx  
+b -Tn Nck30AfSleazyrider_2_0 ..\NCK30Adapted\fmBenchPos\Nck30AfSleazyrider\Nck30AfSleazyrider_2_0.hkx  
+b -Tn Nck30AfSleazyrider_3_0 ..\NCK30Adapted\fmBenchPos\Nck30AfSleazyrider\Nck30AfSleazyrider_3_0.hkx  
+b -Tn Nck30AfSleazyrider_4_0 ..\NCK30Adapted\fmBenchPos\Nck30AfSleazyrider\Nck30AfSleazyrider_4_0.hkx  
+b -Tn Nck30AfSleazyrider_5_0 ..\NCK30Adapted\fmBenchPos\Nck30AfSleazyrider\Nck30AfSleazyrider_5_0.hkx  
+b -Tn Nck30AfTable1_1_1 ..\NCK30Adapted\fmBenchPos\Nck30AfTable1\Nck30AfTable1_1_1.hkx  
+b -Tn Nck30AfTable1_2_1 ..\NCK30Adapted\fmBenchPos\Nck30AfTable1\Nck30AfTable1_2_1.hkx  
+b -Tn Nck30AfTable1_3_1 ..\NCK30Adapted\fmBenchPos\Nck30AfTable1\Nck30AfTable1_3_1.hkx  
+b -Tn Nck30AfTable1_4_1 ..\NCK30Adapted\fmBenchPos\Nck30AfTable1\Nck30AfTable1_4_1.hkx  
+b -Tn Nck30AfTable1_5_1 ..\NCK30Adapted\fmBenchPos\Nck30AfTable1\Nck30AfTable1_5_1.hkx  
+b -Tn Nck30AfTable1_1_0 ..\NCK30Adapted\fmBenchPos\Nck30AfTable1\Nck30AfTable1_1_0.hkx  
+b -Tn Nck30AfTable1_2_0 ..\NCK30Adapted\fmBenchPos\Nck30AfTable1\Nck30AfTable1_2_0.hkx  
+b -Tn Nck30AfTable1_3_0 ..\NCK30Adapted\fmBenchPos\Nck30AfTable1\Nck30AfTable1_3_0.hkx  
+b -Tn Nck30AfTable1_4_0 ..\NCK30Adapted\fmBenchPos\Nck30AfTable1\Nck30AfTable1_4_0.hkx  
+b -Tn Nck30AfTable1_5_0 ..\NCK30Adapted\fmBenchPos\Nck30AfTable1\Nck30AfTable1_5_0.hkx  
+b -Tn Nck30AfTable2_1_1 ..\NCK30Adapted\fmTablePos\Nck30AfTable2\Nck30AfTable2_1_1.hkx  
+b -Tn Nck30AfTable2_2_1 ..\NCK30Adapted\fmTablePos\Nck30AfTable2\Nck30AfTable2_2_1.hkx  
+b -Tn Nck30AfTable2_3_1 ..\NCK30Adapted\fmTablePos\Nck30AfTable2\Nck30AfTable2_3_1.hkx  
+b -Tn Nck30AfTable2_4_1 ..\NCK30Adapted\fmTablePos\Nck30AfTable2\Nck30AfTable2_4_1.hkx  
+b -Tn Nck30AfTable2_5_1 ..\NCK30Adapted\fmTablePos\Nck30AfTable2\Nck30AfTable2_5_1.hkx  
+b -Tn Nck30AfTable2_6_1 ..\NCK30Adapted\fmTablePos\Nck30AfTable2\Nck30AfTable2_6_1.hkx  
+b -Tn Nck30AfTable2_7_1 ..\NCK30Adapted\fmTablePos\Nck30AfTable2\Nck30AfTable2_7_1.hkx  
+b -Tn Nck30AfTable2_8_1 ..\NCK30Adapted\fmTablePos\Nck30AfTable2\Nck30AfTable2_8_1.hkx  
+b -Tn Nck30AfTable2_1_0 ..\NCK30Adapted\fmTablePos\Nck30AfTable2\Nck30AfTable2_1_0.hkx  
+b -Tn Nck30AfTable2_2_0 ..\NCK30Adapted\fmTablePos\Nck30AfTable2\Nck30AfTable2_2_0.hkx  
+b -Tn Nck30AfTable2_3_0 ..\NCK30Adapted\fmTablePos\Nck30AfTable2\Nck30AfTable2_3_0.hkx  
+b -Tn Nck30AfTable2_4_0 ..\NCK30Adapted\fmTablePos\Nck30AfTable2\Nck30AfTable2_4_0.hkx  
+b -Tn Nck30AfTable2_5_0 ..\NCK30Adapted\fmTablePos\Nck30AfTable2\Nck30AfTable2_5_0.hkx  
+b -Tn Nck30AfTable2_6_0 ..\NCK30Adapted\fmTablePos\Nck30AfTable2\Nck30AfTable2_6_0.hkx  
+b -Tn Nck30AfTable2_7_0 ..\NCK30Adapted\fmTablePos\Nck30AfTable2\Nck30AfTable2_7_0.hkx  
+b -Tn Nck30AfTable2_8_0 ..\NCK30Adapted\fmTablePos\Nck30AfTable2\Nck30AfTable2_8_0.hkx  
+b -Tn Nck30AfWildweekend_1_1 ..\NCK30Adapted\fmBenchPos\Nck30AfWildweekend\Nck30AfWildweekend_1_1.hkx  
+b -Tn Nck30AfWildweekend_2_1 ..\NCK30Adapted\fmBenchPos\Nck30AfWildweekend\Nck30AfWildweekend_2_1.hkx  
+b -Tn Nck30AfWildweekend_3_1 ..\NCK30Adapted\fmBenchPos\Nck30AfWildweekend\Nck30AfWildweekend_3_1.hkx  
+b -Tn Nck30AfWildweekend_4_1 ..\NCK30Adapted\fmBenchPos\Nck30AfWildweekend\Nck30AfWildweekend_4_1.hkx  
+b -Tn Nck30AfWildweekend_5_1 ..\NCK30Adapted\fmBenchPos\Nck30AfWildweekend\Nck30AfWildweekend_5_1.hkx  
+b -Tn Nck30AfWildweekend_6_1 ..\NCK30Adapted\fmBenchPos\Nck30AfWildweekend\Nck30AfWildweekend_6_1.hkx  
+b -Tn Nck30AfWildweekend_7_1 ..\NCK30Adapted\fmBenchPos\Nck30AfWildweekend\Nck30AfWildweekend_7_1.hkx  
+b -Tn Nck30AfWildweekend_1_0 ..\NCK30Adapted\fmBenchPos\Nck30AfWildweekend\Nck30AfWildweekend_1_0.hkx  
+b -Tn Nck30AfWildweekend_2_0 ..\NCK30Adapted\fmBenchPos\Nck30AfWildweekend\Nck30AfWildweekend_2_0.hkx  
+b -Tn Nck30AfWildweekend_3_0 ..\NCK30Adapted\fmBenchPos\Nck30AfWildweekend\Nck30AfWildweekend_3_0.hkx  
+b -Tn Nck30AfWildweekend_4_0 ..\NCK30Adapted\fmBenchPos\Nck30AfWildweekend\Nck30AfWildweekend_4_0.hkx  
+b -Tn Nck30AfWildweekend_5_0 ..\NCK30Adapted\fmBenchPos\Nck30AfWildweekend\Nck30AfWildweekend_5_0.hkx  
+b -Tn Nck30AfWildweekend_6_0 ..\NCK30Adapted\fmBenchPos\Nck30AfWildweekend\Nck30AfWildweekend_6_0.hkx  
+b -Tn Nck30AfWildweekend_7_0 ..\NCK30Adapted\fmBenchPos\Nck30AfWildweekend\Nck30AfWildweekend_7_0.hkx  

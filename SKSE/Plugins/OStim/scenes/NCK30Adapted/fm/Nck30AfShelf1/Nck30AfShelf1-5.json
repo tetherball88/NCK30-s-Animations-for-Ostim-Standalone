@@ -1,0 +1,46 @@
+{
+    "name": "NCK30 Shelf 1",
+    "modpack": "NCK30Animations",
+    "length": 6,
+    "destination": "Nck30AfShelf1-4",
+    "speeds": [
+        {
+            "animation": "Nck30AfShelf1_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "sitting",
+                "ontop",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "nck30",
+        "cowgirl",
+        "transition"
+    ]
+}

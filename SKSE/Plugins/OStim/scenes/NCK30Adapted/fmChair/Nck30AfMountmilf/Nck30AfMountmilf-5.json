@@ -1,0 +1,51 @@
+{
+    "name": "NCK30 Mount MILF",
+    "modpack": "NCK30Animations",
+    "length": 5,
+    "destination": "Nck30AfMountmilf-4",
+    "speeds": [
+        {
+            "animation": "Nck30AfMountmilf_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "kneeling",
+                "facingaway",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdingneck",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "nck30",
+        "doggystyle",
+        "transition"
+    ],
+    "furniture": "chair"
+}

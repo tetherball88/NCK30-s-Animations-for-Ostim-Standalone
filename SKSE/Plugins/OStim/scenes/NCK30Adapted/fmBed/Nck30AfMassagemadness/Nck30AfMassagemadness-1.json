@@ -1,0 +1,62 @@
+{
+    "name": "NCK30 Massage Madness",
+    "modpack": "NCK30Animations",
+    "length": 2,
+    "navigations": [
+        {
+            "origin": "NCK30AdaptedFmBedHub",
+            "description": "NCK30 Massage Madness",
+            "icon": "OStim/symbols/gender_mf"
+        },
+        {
+            "destination": "Nck30AfMassagemadness-2",
+            "description": "Next",
+            "icon": "OStim/symbols/arrow_right"
+        },
+        {
+            "destination": "NCK30AdaptedFmBedHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "Nck30AfMassagemadness_1"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "bendover"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingfront"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "rimjob",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "gropingbreast",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "nck30"
+    ],
+    "furniture": "bed"
+}

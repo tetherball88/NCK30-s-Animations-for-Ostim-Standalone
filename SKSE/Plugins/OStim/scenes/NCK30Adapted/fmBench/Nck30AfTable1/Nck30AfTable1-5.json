@@ -1,0 +1,45 @@
+{
+    "name": "NCK30 Table 1",
+    "modpack": "NCK30Animations",
+    "length": 5,
+    "destination": "Nck30AfTable1-4",
+    "speeds": [
+        {
+            "animation": "Nck30AfTable1_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 4,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingfront",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "nck30",
+        "missionary",
+        "transition"
+    ],
+    "furniture": "bench"
+}

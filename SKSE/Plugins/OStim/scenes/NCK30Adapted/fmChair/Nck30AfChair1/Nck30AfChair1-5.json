@@ -1,0 +1,50 @@
+{
+    "name": "NCK30 Chair 1",
+    "modpack": "NCK30Animations",
+    "length": 5.133333,
+    "destination": "Nck30AfChair1-4",
+    "speeds": [
+        {
+            "animation": "Nck30AfChair1_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 3,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "suspended",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1,
+            "performer": 1
+        },
+        {
+            "type": "hug",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "nck30",
+        "transition"
+    ],
+    "furniture": "chair"
+}

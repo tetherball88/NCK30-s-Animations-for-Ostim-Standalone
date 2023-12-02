@@ -1,0 +1,64 @@
+{
+    "name": "NCK30 Greek Goddess",
+    "modpack": "NCK30Animations",
+    "length": 2,
+    "navigations": [
+        {
+            "origin": "NCK30AdaptedFmWallHub",
+            "description": "NCK30 Greek Goddess",
+            "icon": "OStim/symbols/gender_mf"
+        },
+        {
+            "destination": "Nck30AfGreekgoddess-2",
+            "description": "Next",
+            "icon": "OStim/symbols/arrow_right"
+        },
+        {
+            "destination": "NCK30AdaptedFmWallHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "Nck30AfGreekgoddess_1"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 3,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "spreadlegs"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdingleg",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "nck30",
+        "standing"
+    ],
+    "furniture": "wall"
+}
